@@ -6,7 +6,7 @@ Código Comum ao SAT-CF-e
     :target: https://pypi.python.org/pypi/satcomum/
     :alt: Development status
 
-.. image:: https://img.shields.io/badge/python%20version-2.7-blue.svg
+.. image:: https://img.shields.io/pypi/pyversions/satcomum.svg
     :target: https://pypi.python.org/pypi/satcomum/
     :alt: Supported Python versions
 
@@ -18,9 +18,9 @@ Código Comum ao SAT-CF-e
     :target: https://pypi.python.org/pypi/satcomum/
     :alt: Latest version
 
-.. image:: https://badges.gitter.im/Join%20Chat.svg
-   :alt: Join the chat at https://gitter.im/base4sistemas/satcfe
+.. image:: https://img.shields.io/gitter/room/base4sistemas/satcfe.svg
    :target: https://gitter.im/base4sistemas/satcfe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+   :alt: Join the chat at https://gitter.im/base4sistemas/satcfe
 
 -------
 
