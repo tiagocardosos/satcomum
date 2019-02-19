@@ -35,12 +35,6 @@ Código Comum ao SAT-CF-e
 
 -------
 
-.. image:: https://drone.io/github.com/base4sistemas/satcomum/status.png
-    :target: https://drone.io/github.com/base4sistemas/satcomum/latest
-    :alt: Build status
-
--------
-
 Este projeto mantém o código comum aos projetos relacionados ao `SAT-CF-e`_,
 tais como validadores, formatadores, constantes e utilitários que são usados
 nos projetos relacionados:
